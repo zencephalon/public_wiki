@@ -1,1 +1,4 @@
 Welcome to Matthew Bunday's vimwiki.
+
+Projects:
+[[Metacognition Manual]]
