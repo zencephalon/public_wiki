@@ -1,7 +1,7 @@
-%title zencephalon: Matthew Bunday's brain on zen
+%title my brain on zen
 
-Hi, I'm Matthew Bunday. I'm interested in how we experience consciousness and the world around us, how mathematics seems to be the 'source code' of the unverise, how we can work together to design efficient systems, and how language interacts with thought.
+Hi, I'm Matthew Bunday. I'm interested in how we experience consciousness and the world around us, how mathematics seems to be the 'source code' of the universe, how we can work together to design efficient systems, and how language interacts with thought.
 
-I offer consulting services in [[competitive math]], [[programming]], and [[meditation]].
+I offer consulting services in competitive math, programming, and meditation.
 
 I am fluent in Mandarin and I can read German and Norwegian.
