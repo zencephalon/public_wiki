@@ -328,6 +328,7 @@ Along the way, every little thing reminds me of her. I used to go out walking to
 
 Finally I reach city streets again. Under a streetlight I examine the book. It's a worn anthology of poetry. Inside the cover is written “Property of Jonas Coffrey” in a neat letters. There is a bookmark, so I open the book to the marked page. There are several annotations in a feminine hand, which Aliza must written. One poem has been encircled with a floral design.
 
+{{{
     Separation
 
     Your absence has gone through me
@@ -335,4 +336,4 @@ Finally I reach city streets again. Under a streetlight I examine the book. It's
     Everything I do is stitched with its color.
 
     — W.S. Merwin
-
+}}}
