@@ -11,5 +11,4 @@ I write [[Fiction|fiction]].
 * [[Guiding Principles]]
 * [[Becoming Myself]]
 * [[The Power of a Rubber Band]]
-* [[Separation]]
 * [[Features TODO]]
