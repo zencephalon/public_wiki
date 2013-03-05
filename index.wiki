@@ -1,6 +1,6 @@
 %title my brain on zen
 
-Hi, I'm Matthew Bunday. I'm interested in how we experience consciousness and the world around us, how mathematics seems to be the 'source code' of the universe, how we can work together to design efficient systems, and how language interacts with thought.
+Hi, I'm [[Matthew Bunday]]. I'm interested in how we experience consciousness and the world around us, how mathematics seems to be the 'source code' of the universe, how we can work together to design efficient systems, and how language interacts with thought.
 
 I offer consulting services in programming, writing, and meditation. I formerly offered competitive math coaching; if you desperately want this service, it can be negotiated, but my rates will be unreasonable.
 
@@ -10,3 +10,4 @@ I am fluent in Mandarin and I can read German and Norwegian.
 * [[Becoming Myself]]
 * [[The Power of a Rubber Band]]
 * [[Separation]]
+* [[Features TODO]]

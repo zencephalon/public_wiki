@@ -1,0 +1,7 @@
+This site could obviously use a lot more work. I'm purposely building it from
+the ground up as an exercise in programming.
+
+Here are some features it could use:
+- RSS Feed
+- Link to corresponding Github page for each page, so that visitors can fork my writing.
+- Analytics tracking
