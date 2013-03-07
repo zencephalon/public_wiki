@@ -1,0 +1,3 @@
+This site is written using [[https://code.google.com/p/vimwiki/|vimwiki]], the best wiki I’ve used (if only because it lives inside of [[http://www.vim.org/|Vim]], the best text editor I’ve used), generated using some [[http://www.ruby-lang.org/|Ruby]] scripts and hosted on [[http://nginx.org/|nginx]]. That about covers it.
+
+There are some [[Features TODO|features I’d still like to add]].
