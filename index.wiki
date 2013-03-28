@@ -6,11 +6,11 @@ I offer consulting services in programming, writing, and [[meditation]]. I forme
 
 I am fluent in Mandarin and I can read German and Norwegian.
 
-I write [[Fiction|fiction]].
-
-I like these [[Quotes|quotes]] and these [[Links|links]].
+I write [[Fiction|fiction]]. I like these [[Quotes|quotes]] and these [[Links|links]].
 
 If you are curious about how this site is made, you may read the [[colophon]].
+
+I [[advice-for-myself|write to myself]].
 
 Here are some miscellaneous articles:
 * [[Guiding Principles]]
