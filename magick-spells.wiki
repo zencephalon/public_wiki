@@ -6,10 +6,10 @@ This can be seen in our language. We cast ‘spells’. ‘Grimoire’ and ‘gr
 
 To me, metaphor is magick. ‘Is’ is magick. ‘Is’ is this magickal and potent word that allows us to change one thing into another. Behold this mighty magick which I employ.
 
-LIFE is an ADVENTURE
-EXISTENCE is WONDERMENT
-DOING THE DISHES is FUN
-WRITING is MAGICK
+- LIFE is an ADVENTURE
+- EXISTENCE is WONDERMENT
+- DOING THE DISHES is FUN
+- WRITING is MAGICK
 
 People use the magick of metaphor all the time in their daily lives, often without realizing it. Read [[http://www.soc.washington.edu/users/brines/lakoff.pdf|Metaphors We Live By]] if you’d like to see some respected academics saying this.
 
