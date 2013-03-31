@@ -1,13 +1,10 @@
 %title the playground
 
-The world we live in is magickal. To see this is just a matter of perspective and wording.
+This is where my ideas come to play. Maybe your ideas would enjoy a frolic here as well.
 
-I live in a city where wizards with long beards and unfashionable clothing stay in tall black towers using ancient esoteric languages like FORTRAN and C and Ruby to usher forth electronic djinnis to do their biding. In other towers law and finance mages animate corporate golems such as Goldman Sachs to their own nefarious ends, bounding up thousands in their elaborately wrought runework of contracts. From houses bearing the sigil of the mermaid, we may obtain a magickal steaming brown elixir which grants us wakefulness and concentration.
-
-Most people have in their house a black mirror. Using a magick wand with many knobs they can scry and see into far flung corners of the world. Most people carry pocket scrying mirrors so that they may telepathically communicate with their loved ones over any distance. Many scrying mirrors have electronic djinnis trapped within, duty-bound to serve their master by reminding them of appointments and other miscellany.
-
-Walking amidst the promenades of New York I can descend into underground caverns, wherein I can step into the stomachs of long serpents which burrow through the city, delivering me to my friend's doorstep. Should I wish to visit my family in the far away land of Minnesnowta I simply procure a boarding keyrune from the electronic djinni of a airline corporate-law-golem and climb aboard a metal bird. Truly I live in a wonderful magickal world! And I am fortunate enough to be a PROGRAMMER, a mage that speaketh the machine tongues, an animator of the scrying screens. How lucky I am!
-
------
-
-
+- [[our-magickal-world|Our Magickal World]]
+- [[magick-spells|Magick Spells]]
+    - [[spell-to-destroy-your-enemies|Spell to destroy your enemies]]
+    - [[spell-to-have-adventures|Spell to have adventures]]
+    - [[spell-to-gain-wealth|Spell to gain wealth]]
+    - [[spell-to-gain-confidence|Spell to gain confidence]]
