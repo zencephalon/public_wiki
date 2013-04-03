@@ -10,3 +10,6 @@ Short-fiction
 Micro-fiction
 - [[Eden]]
 - [[picador-apartments|Picador Apartments]]
+
+Friend-fiction
+- [[Scarlett]]
