@@ -8,7 +8,7 @@ having had two Guinesses at the airport bar.
 Gerard is the victim of the kind of coincidence that only occurs on fateful days,
 such as this one. You see, despite the way women go wild around him, he happens
 to be a software developer. As such, he was wearing a black ‘you had me at Hello World’
-t-shirt. Timothy O’Cleary had been instructed earlier that day to swap duffle bags
+t-shirt. Timothy O’Cleary had been instructed earlier that day to swap duffel bags
 with a man wearing a black ‘you had me at Hello World’ t-shirt. However, that man
 was not Gerard.
 
@@ -100,6 +100,12 @@ But wait. Thinking first. Do the smart thing first. Use it as a reward. Good Ger
 
 He turns on privacy mode on his PCBM and determines that the market value of a single brick was around twenty thousand dollars, depending on his ability to sling it. Three hundred and sixty thousand dollars. Damn. Even with his software developer salary and his wife’s heart surgeon salary that seems like a lot of money. Especially to get all at once, tax free.
 
-Then he realizes. The bag is bugged. It must be bugged. No way it isn’t. How to get rid of the bug? Where is the bug? Burn the bag? Burn the bag. Burn the bag! Burn. Yes, yes. 
+Then he realizes. The bag is bugged. It must be bugged. No way it isn’t. How to get rid of the bug? Where is the bug? Burn the bag? Burn the bag. Burn the bag! Burn. Yes, yes. No, no, you're a hacker for god’s sake. 
 
-He runs to find a lighter.
+Gerard grabs the bag and runs to his workshop. The shelves of this small room are strewn with electronic gadgets, tools, soldering irons, a fabrication machine, discarded monitors, and miles of cable. Gerard searches the shelves until he finds his EM field detecting wand. He sweeps everything off his workbench and plops the bag down on it, then begins methodically scanning the bag with the wand. Nothing, nothing. Then finally, *beep beep*. The bug must be embedded in the fabric somewhere. Gerard grabs a pair of wire cutters and begins cutting apart the fabric until he unveils a small black chip, about a quarter the area of his thumbnail. He extracts it carefully.
+
+A normal person’s instinct here would be to destroy the chip immediately. But Gerard had better ideas. He turns on his workshop computer, and while it is booting up searches for a set of wires. When he’s found the green cord he is looking for he solders two electrodes from one end of it to the chip, and then plugs the other end into his computer. He’s familiar with this kind of chip. It’s a generic component manufactured in Africa. 
+
+Quickly he writes a program. Unfortunately, the tracker has already indicated this apartment. There’s no getting around what’s already been revealed. For the time being, he feels very justified in paranoia. If there is a tracking chip, there are almost certainly people coming for it. Maybe he can throw them off his trail, so long as they don’t find him here. The program will hack the memory address containing the chip’s location and cause it to display whatever coordinates Gerard desires. Gerard decides that it is imperative they don’t realize the chip has been compromised, so he programs the chip to shown his location as moving from his apartment to a series of motels and hideouts, as if the chip were tracking his location while on the run. 
+
+Gerard smiles in satisfaction. This way he can even survey from a distance a location that the chip reports him to be, and see who shows up, if anyone. 
