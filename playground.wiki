@@ -2,7 +2,9 @@
 
 This is where my ideas come to play. Maybe your ideas would enjoy a frolic here as well.
 
-- [[our-magickal-world|Our Magickal World]]
+- Framing
+    - [[our-magickal-world|Our Magickal World]]
+    - [[an-eclectic-collection-of-frames|An Eclectic Collection of Frames]]
 - [[magick-spells|Magick Spells]]
     - [[spell-to-destroy-your-enemies|Spell to destroy your enemies]]
     - [[spell-to-have-adventures|Spell to have adventures]]
