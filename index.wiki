@@ -6,9 +6,7 @@ I offer consulting services in programming, writing, and [[meditation]]. I forme
 
 I am fluent in Mandarin. I can read and write [[German]] and Norwegian, but my conversational fluency still needs practice. I’d love to learn more languages including Arabic, French, Italian, Japanese, and Spanish. 
 
-I write [[Fiction|fiction]]. I also write [[Poems|poems]].
-
-I [[advice-for-myself|write to myself]]. And I love to [[playground|play with ideas]].
+I write [[Fiction|fiction]]. I also write [[Poems|poems]]. I [[advice-for-myself|write to myself]]. And I love to [[playground|play with ideas]].
 
 I like these [[Quotes|quotes]] and these [[Links|links]].
 
@@ -21,5 +19,6 @@ Here are some miscellaneous articles:
 * [[lessons-in-living|Lessons in Living]]
 * [[time-travel-instruction-set|Time Travel Instruction Set]]
 * [[ode-to-tragedy|Ode to Tragedy]]
+* [[be-happy-for-no-reason|Be Happy for No Reason]]
  
 If you are curious about how this site is made, you may read the [[colophon]].

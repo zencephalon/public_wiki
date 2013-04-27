@@ -86,3 +86,5 @@ Fuck, fuck, fuck! I have to get the hell out of here. And I need to warn Scarlet
 -----
 
 I'm sitting in a cafe on my laptop trying to look as inconspicuous as a person can when the bags next to them are filled with kilos of cocaine and urban survival equipment. I'm also trying not to remember that I have one dead Irish mobster in one closet, and a duct taped and unconscious mobster in another closet. I'm very worried about Scarlett. The hospital says she never arrived, and she isn't answering her phone. Right now I'm trying to break into the hospital parking lot's security cameras. Our car reports that it made it to the hospital garage. Somehow Scarlett went missing between the car door and the ER door, and I have an awful feeling in my gut that I know exactly why.
+
+The security camera system has a password, but no rate limiting. It might as well not have a password, idiots. I spin up a brute force dictionary attack and impatiently sip on my 
