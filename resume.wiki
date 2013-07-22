@@ -1,0 +1,21 @@
+%title Matthew Bunday's Resume
+
+= Contact = 
+
+| Method      | Datum                                                  |
+|-------------|--------------------------------------------------------|
+| mobile      | (952) 479-0749                                         |
+| email       | mkbunday @ google's email service                      |
+| github      | [[http://github.com/zencephalon|zencephalon]]          |
+| hacker news | [[https://news.ycombinator.com/user?id=SlyShy|SlyShy]] |
+
+= Employment History =
+
+
+
+= Academics = 
+
+| School                                                                    | Years     |
+|---------------------------------------------------------------------------|-----------|
+| Stanford University Education Program for Gifted Youth Online High School | 2006-2010 |
+| University of Minnesota                                                   | 2008-2012 |
