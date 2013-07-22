@@ -1,6 +1,6 @@
 %title Matthew Bunday's Resume
 
-= Contact = 
+== Contact == 
 
 | Method      | Datum                                                  |
 |-------------|--------------------------------------------------------|
@@ -9,11 +9,13 @@
 | github      | [[http://github.com/zencephalon|zencephalon]]          |
 | hacker news | [[https://news.ycombinator.com/user?id=SlyShy|SlyShy]] |
 
-= Employment History =
+== Employment History ==
+
+=== Sailthru ===
 
 
 
-= Academics = 
+== Academics == 
 
 | School                                                                    | Years     |
 |---------------------------------------------------------------------------|-----------|
