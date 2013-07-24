@@ -13,7 +13,59 @@
 
 === Sailthru ===
 
+Developer: May 2012 to Present in New York City, NY
 
+I started out at Sailthru as a [[http://hackny.org|HackNY]] fellow. During my internship I wrote an automated testing framework in Ruby for Sailthru and automated about 60% of our manual UI testing. After my fellowship ended I stayed on as a full time employee in the Horizon, API, Link team. There I undertook several large scale refactorings of our code including real time list counting and real time email statistics. My focus on HAL was refactoring large batched processes into incremental atomic updates. I now work on our Backend team, where I am enjoying learning a new code base and searching for structural defects I can repair.
+
+=== Medtronic CardioVascular ===
+
+Summer Associate: May 2011 to September 2011 in Brooklyn Park, Minnesota
+
+I programmed a touch screen interface for Medtronic's next generation hemeostasis machine using C# on Windows CE. Hemeostasis machines are essential during surgeries to balance the levels of anti-coagulant (heparin) used during surgery. If too little heparin is used, then your blood will clot during surgery, which will cause a longer recovery time due to depleted clotting factors in your blood. If too much heparin is used, then you will bleed out. Once the surgery is over, the machine also administers the correct dose of protamine to neutralize the heparin. 
+
+=== University of Minnesota Computer Science Department ===
+
+Teaching Assistant: August 2010 to December 2010 at Minneapolis, Minnesota
+
+I taught a section of CSCI 1103: Introduction to Java, graded homework and tests, and held office hours. I found Java to be a poor pedagogical language, so I supplemented my own teaching with Python to give a comparison and contrast to Java, and to better illustrate basic algorithms. I'm happy to say my students did very well on their tests, because they were actually learning computer science and not memorizing Java syntax.
+
+=== Ross Mathematics Program ===
+
+Junior Counselor: June 2009 to August 2009 at Ohio State University, Columbus, Ohio
+
+I taught number theory and abstract algebra, graded problem sets, supervised activities, and attended seminars in hyperbolic geometry, computability theory, and Galois theory.
+
+== Selected Projects ==
+
+=== ImpishIdea ===
+
+[[http://impishidea.com|ImpishIdea]]
+
+I founded this self-sustaining community (I now have no active role in it) baed on community management techniques I learned over several years. When I first launched it I successfully Google-bombed the search term “Brisingr Review”. This brought me many page views and ruined a major book release.
+
+=== TactfulTokenizer ===
+
+[[http://github.com/zencephalon/Tactful_Tokenizer|TactfulTokenizer’s Github]]
+
+This Ruby library performs sentence tokenization quickly (10x speed improvement over the equivalent Python library, splitta) and accurately (99.8% on the Brown corpus) using a naive bayesian statistical model. It avoids pitfalls such as “Mrs. Jones works in the U.S. Senate and at 5 p.m. she has an appointment with Dr. House.”
+
+=== PertinentParser ===
+
+[[http://github.com/zencephalon/Pertinent_Parser|PertinentParser’s Github]]
+
+This Ruby library parses HTML into text and “text transformations”, making it easy to apply new tags across existing tag boundaries. I use this in conjunction with TactfulTokenizer to insert sentence delineating tags across existing HTML tags in a way that doesn’t break the markup.
+
+=== DeftDraft ===
+
+[[http://github.com/zencephalon/DeftDraft|DeftDraft’s Github]]
+
+DeftDraft is an experimental text editor I use to write stories. It integrates revision control into the editing experience, allowing me to play with multiple versions of my text simultaneously. 
+
+=== tekstflyt ===
+
+[[http://github.com/zencephalon/tekstflyt|tekstflyt’s Github]]
+
+Tekstflyt is a game that encourages you to write as quickly as possible. You get more points the longer your “flow” of uninterrupted typing is. I plan on using it for this year’s National Novel Writing Month.
 
 == Academics == 
 
