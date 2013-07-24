@@ -41,7 +41,7 @@ I taught number theory and abstract algebra, graded problem sets, supervised act
 
 [[http://impishidea.com|ImpishIdea]]
 
-I founded this self-sustaining community (I now have no active role in it) baed on community management techniques I learned over several years. When I first launched it I successfully Google-bombed the search term “Brisingr Review”. This brought me many page views and ruined a major book release.
+I founded this self-sustaining community (I now have no active role in it) based on community management techniques I learned over several years. When I first launched it I successfully Google-bombed the search term “Brisingr Review”. This brought me many page views and ruined a major book release.
 
 === TactfulTokenizer ===
 
