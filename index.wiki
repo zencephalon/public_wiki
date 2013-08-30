@@ -19,5 +19,6 @@ Here are some miscellaneous articles:
 * [[ode-to-tragedy|Ode to Tragedy]]
 * [[be-happy-for-no-reason|Be Happy for No Reason]]
 * [[you-havent-yet|You Haven't Yet]]
+* [[Dialogue with Death]]
  
 If you are curious about how this site is made, you may read the [[colophon]].
