@@ -2,11 +2,9 @@
 
 Hi, I'm [[Matthew Bunday]]. I'm interested in how we experience consciousness and the world around us, how mathematics seems to be the ‘source code’ of the universe, how we can work together to design efficient systems, and how language interacts with thought.
 
-I offer consulting services in programming, writing, and [[meditation]].
+I offer consulting services in programming, writing, and [[meditation]]. I'm also willing to teach anything I know.
 
 I write [[Fiction|fiction]] and [[Poems|poetry]]. I [[advice-for-myself|write to myself]]. And I love to [[playground|play with ideas]].
-
-I like these [[Quotes|quotes]] and these [[Links|links]].
 
 Here are some miscellaneous articles:
 * [[Guiding Principles]]
